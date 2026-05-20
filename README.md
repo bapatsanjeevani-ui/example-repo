@@ -14,5 +14,5 @@ git log --topo-order --all --graph --date=local --pretty=format:'%C(green)%h%C(r
 </pre>
   
 </body>
-</body>html>
+<html>
  
