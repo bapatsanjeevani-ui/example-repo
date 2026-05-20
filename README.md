@@ -1,18 +1,32 @@
-<!doctype HTML>
+<!DOCTYPE html>
 <html>
- <h1>#Example Repository</h1>
+
+<head>
+    <title>Example Repository</title>
+</head>
+
 <body>
-This is the second change.<br>
-  <h1>#What you learned</h1>
-  Terminology<br>
-  -clone<br>
-  -reop=repository<br>
-  -push<br>
-  -stagging commiting<br>
-  <pre>
+
+    <h1>#Example Repository</h1>
+
+    <p>This is the second change.</p>
+
+    <h1>#What You Learned</h1>
+
+    <p>
+        Terminology<br>
+        - clone<br>
+        - repo = repository<br>
+        - push<br>
+        - staging and committing
+    </p>
+
+    <h2>Git Log Command</h2>
+
+    <pre>
 git log --topo-order --all --graph --date=local --pretty=format:'%C(green)%h%C(reset) %><(55,trunc)%s%C(red)%d%C(reset) %C(blue)[%an]%C(reset) %C(yellow)%ad%C(reset)%n'
-</pre>
-  
+    </pre>
+
 </body>
+
 </html>
- 
