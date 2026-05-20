@@ -1,6 +1,6 @@
 <!doctype HTML>
 <html>
-  <h1>#Example Repository</h1>
+  <head><title><h1>#Example Repository</h1></title></head>head>
 <body>
 This is the second change.<br>
   <h1>#What you learned</h1>
