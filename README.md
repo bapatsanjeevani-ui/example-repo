@@ -1,4 +1,5 @@
-
+<!doctype HTML>
+<html>
   <h1>#Example Repository</h1>
 <body>
 This is the second change.<br>
@@ -13,4 +14,5 @@ git log --topo-order --all --graph --date=local --pretty=format:'%C(green)%h%C(r
 </pre>
   
 </body>
+</body>html>
  
